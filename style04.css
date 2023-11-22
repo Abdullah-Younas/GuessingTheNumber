@@ -1,0 +1,34 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+#Guesstxt{
+    padding: 20px 40px;
+    border: none;
+    background-color: bisque;
+    border-radius: 15px;
+}
+#submitbtn{
+    border: none;
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 5px 10px;
+    font-family: monospace;
+    font-size: 1em;
+}
+#submitbtn:hover{
+    background-color: rgb(218, 194, 165);
+}
+#retrybtn{
+    border: none;
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 5px 10px;
+    font-family: monospace;
+    font-size: 1em;
+}
+#retrybtn:hover{
+    background-color: rgb(218, 194, 165);
+}
